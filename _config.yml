@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "tarek.hanani@outlook.fr"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: tarek.hanani2
+  # facebook: tarek.hanani2
   github: Hypsolune
   # twitter: daattali
   #patreon: DeanAttali
