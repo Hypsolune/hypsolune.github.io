@@ -6,7 +6,7 @@ css: "/css/index.css"
 meta-title: "Tarek Hanani"
 meta-description: "French engineering student at ENSIMAG"
 bigimg:
-  - "/img/big-imgs/IMG_4939000085.jpg"
+  - "/img/big-imgs/IMG_4939000085.jpg" : ""
   - "/img/big-imgs/IMG_4955000086.jpg"
   - "/img/big-imgs/IMG_4957000087.jpg"
   - "/img/big-imgs/IMG_4961000089.jpg"
