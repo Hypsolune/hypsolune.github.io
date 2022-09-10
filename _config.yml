@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -48,11 +48,11 @@ social-network-links:
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: Tarek Hanani
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: tarekdanszsurpz
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
