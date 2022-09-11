@@ -1,6 +1,8 @@
 ---
+layout : post
 title: I finally have a site !
 tags : [personal, blog]
+cover-img : "img/big-imgs/_MG_4098.jpg"
 share-img : "img/big-imgs/_MG_4098.jpg"
 ---
 
