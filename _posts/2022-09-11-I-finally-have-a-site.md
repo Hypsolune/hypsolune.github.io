@@ -1,9 +1,9 @@
 ---
 layout : post
 title: I finally have a site !
+cover-img : /img/big-imgs/_MG_4098.jpg
+share-img : /img/big-imgs/_MG_4098.jpg
 tags : [personal, blog]
-cover-img : "img/big-imgs/_MG_4098.jpg"
-share-img : "img/big-imgs/_MG_4098.jpg"
 ---
 
 ### Welcome to Tarek Hanani on the web !
