@@ -4,7 +4,7 @@ title: About me
 subtitle: Who am I ?
 ---
 
-My name is Tarek Hanani. I am a French engineering student at [ENSIMAG](https://ensimag.grenoble-inp.fr/).
+Hello ! My name is Tarek Hanani and I am a French engineering student at [ENSIMAG](https://ensimag.grenoble-inp.fr/).
 
 
 <!---
